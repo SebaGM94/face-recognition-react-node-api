@@ -1,9 +1,11 @@
 Steps:
 
-1.npm install
+1.npm install                
 2.npm start
 
 Have a postres db and run the following :
+
+
 CREATE TABLE users (
 id serial PRIMARY KEY,
 name VARCHAR(50),
