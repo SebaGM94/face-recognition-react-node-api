@@ -1,6 +1,6 @@
 Steps:
 
-1.npm install
+1.npm install                
 2.npm start
 
 Have a postres db and run the following :
